@@ -7,16 +7,16 @@ import './App.css'
 function App() {
 
   const producto = {
-  nombre: 'Zapatillas Runner',
-  categoria: 'Calzado',
-  precio: 45000,
-  descripcion: 'Zapatillas livianas para correr, con suela de goma antideslizante y plantilla acolchada.',
-  imagen: 'https://picsum.photos/seed/zapatillas/340/220',
-}
+    nombre: 'Zapatillas Runner',
+    categoria: 'Calzado',
+    precio: 45000,
+    descripcion: 'Zapatillas livianas para correr, con suela de goma antideslizante y plantilla acolchada.',
+    imagen: 'https://picsum.photos/seed/zapatillas/340/220',
+  }
 
   return (
     <>
-      
+
     </>
   )
 }
